@@ -3,3 +3,4 @@
 * Doctor Doom
 * Joker
 * Lex Luthor
+* Thanos
